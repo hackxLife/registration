@@ -1,6 +1,6 @@
 # Registration
 Template repository for new ideas
-Use this [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) if you are not familiar with Markdown :code:.
+Use this [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf):octocat: if you are not familiar with Markdown.
 
 # Project title : 
 
