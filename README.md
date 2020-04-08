@@ -1,13 +1,14 @@
 # Registration
-Template repository for new ideas
-Use this [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf):octocat: if you are not familiar with Markdown.
+---
+* Template repository for new ideas.
+* Use this [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf):octocat: if you are not familiar with Markdown.
 
 # Project title : 
-
+---
 One Paragraph of project description goes here
 
 ## Problem description 
-
+---
 One Paragraph of problem description goes here
 
 ## Solution description 
@@ -15,8 +16,10 @@ One Paragraph of problem description goes here
 One Paragraph of solution description goes here
 
 ## Looking for
-
-
+* Designer
+* Developer
+* Mentor
+* Project Manager
 
 ## Getting Started
 
