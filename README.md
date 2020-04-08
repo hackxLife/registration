@@ -1,7 +1,8 @@
 # Registration
 Template repository for new ideas
+Use this [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) if you are not familiar with Markdown :code:.
 
-# Project Title : 
+# Project title : 
 
 One Paragraph of project description goes here
 
