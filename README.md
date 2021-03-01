@@ -12,7 +12,7 @@
 ---
 ## SlackChannel
 
-Post an invite link to your x-hackcommunity.slack.com channel here. [**x-hackcommunity.slack**](https://join.slack.com/t/coh21/shared_invite/zt-n7x97n34-x5E3MAoL869yCBPUhoskrg)
+Erstelle im coh2021.slack.com Workspace einen Channel für deine Idee nach dem Muster # challenge-[1-4]-Projektname .Du kannst dein Projekt und Channel jederzeit umbenennen [**coh2021.slack.com**](https://join.slack.com/t/coh21/shared_invite/zt-n7x97n34-x5E3MAoL869yCBPUhoskrg) :slack:
 
 ---
 ## Problem description 
