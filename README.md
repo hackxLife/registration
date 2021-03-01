@@ -7,8 +7,16 @@
 * Im Anschluss an diese Rubriken solltet Ihr versuchen einen noch tieferen Einblick in euer Projekt zu geben.
 ---
 # Kriterien der Jury
-Um die Projekte bewerten zu können und am Ende des Hackathons
+Um die Projekte bewerten zu können und am Ende des Hackathons Preise vergeben zu können, benutzt unsere Jury folgendes Bewertungsschema:
 
+#Primärkriterien#
+* Vision & Potenzial
+* Innovationshöhe: Technologie | Geschäftsmodell | Distribution
+* Wirtschaftliches Potenzial
+* Cross-Sektorale Vorbildlichkeit
+
+##Sekundärkriterien## 
+* Funktionalität + Stabilität + Problemlösungsbezug = Qualität der entwickelten Lösung
 
 ---
 # Projektname (Bitte ändern)
