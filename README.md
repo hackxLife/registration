@@ -6,8 +6,9 @@
 * Es gibt für die ersten 6 Bereiche der README.md Datei eine feste Strucktur (Projektname, Pitchvideo ca. 3 min lang, Teammitglieder, Problemstellung, Lösung, Slack Channel)
 * Im Anschluss an diese Rubriken solltet Ihr versuchen einen noch tieferen Einblick in euer Projekt zu geben.
 * Wichtig für die weitere Verwendbarkeit des Projekts ist die Lizensierung. Github bietet hier einige Open Source Lizenzen an, solltet ihr Fragen haben welche für euer Repository/Projekt das richtige ist.
+
 ---
-# Kriterien der Jury
+## Kriterien der Jury
 Um die Projekte bewerten zu können und am Ende des Hackathons Preise vergeben zu können, benutzt unsere Jury folgendes Bewertungsschema:
 
 **Primärkriterien**
@@ -23,7 +24,7 @@ Um die Projekte bewerten zu können und am Ende des Hackathons Preise vergeben z
 # Projektname (Bitte ändern)
 
 ---
-# Pitchvideo
+## Pitchvideo
 Klick to start!
 [![Was ist ein Hackathon](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
 Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge. 
