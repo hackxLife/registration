@@ -1,17 +1,18 @@
-# Registration
+# Template Repository für die Einreichung von Ideen
 
-* This is a template repository for new ideas.
+* Erstellung eines Repositorys verpflichtend für die Einreichung
 * Feel free to change as much as you want!!
-* Please have in minde that this README is probably the first contact of potential contributors with your idea, keep this in mind as you create it.
-* Use this [article](https://guides.github.com/features/mastering-markdown/) :bookmark_tabs: and [cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) :octocat: if you are not familiar with Markdown.
+* Mit der README.md Datei des Repository präsentiert ihr eure Idee der gesamten Community und Sie ist der erste Kontakt mit postenziellen Unterstützer:innen
+* Wenn ihr noch nicht mit Markdown gearbeitet habt hilft euch dieser [Artikel](https://guides.github.com/features/mastering-markdown/) :bookmark_tabs: und das [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) :octocat: 
+* Es gibt für die ersten drei Bereiche der README.md Datei eine feste Strucktur (Projektname, Pitchvideo ca. 3 min lang, 
 
 ---
-# Project title (Please change this heading to your project title)
+# Projektname (Bitte ändern)
 
 ---
 ## SlackChannel
 
-Post an invite link to your x-hackcommunity.slack.com channel here. [x-hackcommunity.slack](https://join.slack.com/t/x-hackcommunity/shared_invite/zt-czkjvsv5-2qtEh8kaOY_VqOh3ZgBEzw)
+Post an invite link to your x-hackcommunity.slack.com channel here. [**x-hackcommunity.slack**](https://join.slack.com/t/coh21/shared_invite/zt-n7x97n34-x5E3MAoL869yCBPUhoskrg)
 
 ---
 ## Problem description 
