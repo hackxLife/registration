@@ -1,4 +1,4 @@
-[![Challenge One Health Template Repository](https://challengeonehealth.com/wp-content/uploads/2020/11/Challenge-One-Health-Hintergrund.png)]
+(https://challengeonehealth.com/wp-content/uploads/2020/11/Challenge-One-Health-Hintergrund.png)
 # Template Repository für die Einreichung von Ideen
 
 * Die Erstellung eines Repositorys ist verpflichtend für die Bewertung durch unsere Jury
