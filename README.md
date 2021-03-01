@@ -10,6 +10,10 @@
 # Projektname (Bitte ändern)
 
 ---
+# Pitchvideo
+[![IMAGE ALT TEXT HERE](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
+
+---
 ## SlackChannel
 
 Erstelle im coh2021.slack.com Workspace einen Channel für deine Idee nach dem Muster # challenge-[1-4]-Projektname .Du kannst dein Projekt und Channel jederzeit umbenennen [**coh2021.slack.com**](https://join.slack.com/t/coh21/shared_invite/zt-n7x97n34-x5E3MAoL869yCBPUhoskrg) :slack:
