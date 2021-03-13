@@ -9,7 +9,7 @@
 
 ---
 ## Kriterien der Jury
-Um die Projekte bewerten zu können und am Ende des Hackathons Preise vergeben zu können, benutzt unsere Jury folgendes Bewertungsschema:
+Nach Abschluss des Hackathons wird die Jury die Projekte anhand der folgenden Kriterien bewerten:
 
 **Primärkriterien**
 * Vision & Potenzial
@@ -43,7 +43,9 @@ Bitte beschreibe hier das Problem, welches ihr lösen wollt.
 ---
 ## Lösung 
 
-Welche Lösung habt ihr für das Problem entwickelt.
+Welche Lösung habt ihr für das Problem entwickelt?
+
+Hinweis: orientiert euch für die Beschreibung eurer Lösung gerne am [Business Model Canvas](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Businessplan/Business-Model-Canvas/inhalt.html) (geplante Zielgruppe, konkretes Nutzenversprechen etc.) und erzählt kurz, ob und wie ihr den One Health - Gedanken aufgreift. Dies könnte beispielsweise anhand einer branchenübergreifenden Kooperation oder über einen Ideentransfer aus anderen Branchen erfolgen. Dies erleichtert der Jury die Bewertung eurer Idee.
 
 ---
 ## Slack Channel
